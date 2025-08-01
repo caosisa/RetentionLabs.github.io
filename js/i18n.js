@@ -126,6 +126,8 @@ const translations = {
         "team.member3.description": "연구 및 혁신",
         "team.member4.name": "우정현",
         "team.member4.description": "파트너십 및 협업",
+        "team.member4.name": "임동연",
+        "team.member4.description": "후원자",
         
         // Footer
         "footer.tagline": "RetentionLabs는 대규모 언어 모델의 컨텍스트 길이 한계를 극복하기 위해 AI 메모리를 연구하는 오픈소스 프로젝트 그룹입니다.",
